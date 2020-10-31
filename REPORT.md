@@ -26,6 +26,7 @@
 * Прочитать, согласиться с условиями лицензии и нажать кнопку "Next", ожтдаемый результат открывается окно; ![](https://raw.githubusercontent.com/netology-code/javaqa-homeworks/master/intro/pic/win-step3.png)
 
 * Выбрать опции, как на экране (удостовериться, что установка происходит в Program Files и опция Add to PATH выбрана), нажать кнопку "Next", ожидаемый результат - откроется окно;
+
 ![](https://raw.githubusercontent.com/netology-code/javaqa-homeworks/master/intro/pic/win-step4.png)
 
 * Нажать кнопку "Install" и дождаться окончания установки, ожидаемый результат откроется окно;
