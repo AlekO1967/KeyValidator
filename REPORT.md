@@ -42,16 +42,20 @@
   ожидаемый результат - 
   
   openjdk version "11.0.5" 2019-10-15
+  
   OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.5+10)
+  
   OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.5+10, mixed mode);
 
   фактический результат -
 
   openjdk version "11.0.9" 2020-10-20
+
   OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9+11)
+
   OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9+11, mixed mode)
 
 Тестирование производилось в следующем окружении:
-* Windows 10, 64-разрябная операционная система
+* Windows 10, 64-разрядная операционная система
 * версия JDK "11.0.9" 2020-10-20
 * Google Chrom Версия 86.0.4240.111 (Официальная сборка), (64 бит)
