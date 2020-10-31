@@ -14,9 +14,10 @@
 
 * Ввести в поисковую строку адрес сайта https://adoptopenjdk.net/, ожидаемый результат - открывается страница AdoptopenJDK;
 
-* Выбрать опции, как на скриншоте 
-![](https://raw.githubusercontent.com/netology-code/javaqa-homeworks/master/intro/pic/win-adoptopenjdk.png) и нажать кнопку "Latest release", 
-ожидаемый результат - запускается скачивание MCI-файла;
+* Выбрать опции, как на скриншоте и нажать кнопку "Latest release", 
+ожидаемый результат - запускается скачивание MCI-файла; 
+![](https://raw.githubusercontent.com/netology-code/javaqa-homeworks/master/intro/pic/win-adoptopenjdk.png) 
+
 
 * Запустить на установку скачанный MSI-файл и нажать кнопку "Next", ожидаемый результат - окрывается окно; ![](https://raw.githubusercontent.com/netology-code/javaqa-homeworks/master/intro/pic/win-step1.png)
 
